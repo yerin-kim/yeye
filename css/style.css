@@ -694,7 +694,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item {
   position: relative;
-  height: 300px;
+  height: 200px;
   overflow: hidden !important;
   margin-bottom: 50px;
   border-color: var(--darker-color);
